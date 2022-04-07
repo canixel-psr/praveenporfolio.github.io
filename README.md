@@ -1,1 +1,1 @@
-# praveenportfolio.github.io
+# praveenksingh29.github.io
