@@ -768,3 +768,25 @@ h3.my-profession{
         max-width: 100%;
     }
 }
+@media(max-width:479px) {
+    .about .about-content .personal-info .info-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+@media(max-width:376px) {
+    .typing{
+        font-size: 26px;
+    }
+    h3.my-profession{
+        font-size: 26px;
+    }
+}
+@media(max-width:359px){
+    h3.hello{
+        font-size: 25px;
+    }
+    h3.hello span{
+        font-size: 50px;
+    }
+}
