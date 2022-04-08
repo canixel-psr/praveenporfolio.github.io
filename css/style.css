@@ -781,8 +781,6 @@ h3.my-profession{
     h3.my-profession{
         font-size: 26px;
     }
-}
-@media(max-width:359px){
     h3.hello{
         font-size: 25px;
     }
